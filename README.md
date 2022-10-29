@@ -138,8 +138,6 @@ The process of submitting a pull request is fairly straightforward and generally
 
 </details>
 
-> Having trouble with repo? Check out our documentation or contact Support aurangzaib987@gmail.com
-
 ## :page_facing_up: License
 
 This project is licensed under the Apache License 2.0, see the [LICENSE](LICENSE) file for details.
